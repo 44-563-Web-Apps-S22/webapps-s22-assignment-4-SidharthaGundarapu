@@ -23,3 +23,16 @@
 #Tartuffe{
     color: green;
 }
+table, th, td {
+    border: 1px solid black;
+}
+th {
+    text-align: center;
+    color: rgba(4, 54, 24, 0.979);
+    padding: 15px;
+}
+td {
+    text-align: center;
+    color: rgb(174, 0, 255);
+    padding: 15px;
+}
