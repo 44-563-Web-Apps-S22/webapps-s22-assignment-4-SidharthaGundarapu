@@ -1,0 +1,25 @@
+.speech {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;}
+
+.direction {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12 px;
+    color: black;
+    background-color: azure;}
+
+.direction:hover{
+    background-color: aqua;
+    color: grey;
+}    
+.name {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;}
+.Elmire{
+    color: blue;
+} 
+.Tartuffe{
+    color: green;
+}
