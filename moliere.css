@@ -5,13 +5,14 @@
 }
 .direction {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 12 px;
+    font-size: 15 px;
     color: red;
     background-color: azure;
 }
 .direction:hover{
     background-color: aqua;
     color: grey;
+    text-shadow: 2px 2px 5px red;
 }    
 .name {
     font-family: 'Times New Roman', Times, serif;
@@ -35,4 +36,9 @@ td {
     text-align: center;
     color: rgb(174, 0, 255);
     padding: 15px;
+}
+.name:hover {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    border-style: dotted;
 }
